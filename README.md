@@ -1,11 +1,10 @@
 # Class_1.3
-### Class_1.3
----
+## Class_1.3
+
 ## Activities
 ---
 ## Activity 1
----
-# RegTech
+### RegTech
 How will RegTech change in the next 5 years? 
 Class Presenters:
 RegTech - with current companies like Facebook, Google and Tesla, Tech will be regulated internally. 
@@ -24,13 +23,13 @@ What is GitHub? Online Git storage. GitBucket and GitLab are other versions of t
 Before activity, Mia reviewed how to clone, pull and push back repositories to and from GitHub. 
 ---
 ## Activity 1
-# Who am I? What is my background?
+### Who am I? What is my background?
 I am Jacob. I am a Canadian and German citizen. I also happen to be Jewish.
 ---
-# What are my career goals?
+### What are my career goals?
 To not be poor...
 ---
-# Why did I choose FinTech as a career path?
+### Why did I choose FinTech as a career path?
 I chose to enroll in this course as a back-up career if my music career does not take off. The world of FinTech is really kicking off and if I can be a part of it from conception that would be great! 
 ---
 ## Class Write-Up
