@@ -1,5 +1,5 @@
 # Class_1.3
-## Class_1.3 Activities
+## Activities
 ---
 ## Activity 1
 ### RegTech
