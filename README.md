@@ -15,7 +15,7 @@
 * What is GitHub? Online Git storage. GitBucket and GitLab are other versions of the same thing. 
 * Before activity, Mia reviewed how to clone, pull and push back repositories to and from GitHub. 
 ---
-## Activity 1
+## Activity 2
 ### Who am I? What is my background?
 * I am Jacob. I am a Canadian and German citizen. I am a musician by training. 
 ### What are my career goals?
