@@ -19,7 +19,7 @@
 ### Who am I? What is my background?
 * I am Jacob. I am a Canadian and German citizen. I am a musician by training. 
 ### What are my career goals?
-* To not be poor...
+* To work in the online banking space. 
 ### Why did I choose FinTech as a career path?
 * I chose to enroll in this course as a back-up career if my music career does not take off. The world of FinTech is really kicking off and if I can have the option to take part of it from conception that would be great! Additionally, I've grown up in an environment where my father has always worked in start-ups so this world feels quite natural for me. 
 ---
