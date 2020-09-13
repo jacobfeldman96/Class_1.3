@@ -24,4 +24,4 @@
 * I chose to enroll in this course as a back-up career if my music career does not take off. The world of FinTech is really kicking off and if I can have the option to take part of it from conception that would be great! Additionally, I've grown up in an environment where my father has always worked in start-ups so this world feels quite natural for me. 
 ---
 # Class Write-Up
-* Today's class provided further exposure to the industries under the umbrella of FinTech. We reviewed some of the important commands in CLI and how to push and pull information from Git. Towards the end we worked on Markdowns and how to write nice documents. 
+* Today's class provided further exposure to the industries under the umbrella of FinTech. We reviewed some of the important commands in CLI and how to push and pull information from Git. Towards the end we worked on Markdowns and how to write visually appealing documents in VS Code. 
