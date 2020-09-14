@@ -17,11 +17,12 @@
 ---
 ## Activity 2
 ### Who am I? What is my background?
-* I am Jacob. I am a Canadian and German citizen. I am a musician by training. 
+* I am Jacob. I am a Canadian and German citizen. I just comlpeted my Master's of Arts in Vocal and Operatic Performance from the Royal Academy of Music in London. Currently, I am keenly interested in moving into the financial realm. People often do not correlate skills gained in a musical education with applicable skills in the 'outside' world. What we are taught is dedication, persistence, team-work, problem solving and ironically, humility. In order for music to happen, there needs to be consensus, direction and no one individual is more important than the project as a whole. To check out my professional singing website, visit www.jacobfeldman.ca.
 ### What are my career goals?
-* To work in the online banking oe crypto spaces. 
+* To work in the online banking or crypto industries. 
 ### Why did I choose FinTech as a career path?
-* I chose to enroll in this course as a back-up career if my music career does not take off. The world of FinTech is really kicking off and if I can have the option to take part of it from conception that would be great! Additionally, I've grown up in an environment where my father has always worked in start-ups so this world feels quite natural for me. 
+* I chose to enroll in this course either as a full back-up, or concurrent career if my music career does not take off within the next few years. The world of FinTech is really kicking off and I hope that with the skills gained in this course, I can have the option to take part of the industry! Additionally, I've grown up in an environment where my father has always worked in start-ups so this world feels quite natural for me. 
 ---
 # Class Write-Up
-* Today's class provided further exposure to the industries under the umbrella of FinTech. We reviewed some of the important commands in CLI and how to push and pull information from Git. Towards the end we worked on Markdowns and how to write visually appealing documents in VS Code. 
+* Today's class provided further exposure to the industries under the umbrella of FinTech. We reviewed some of the important commands in CLI and how to push and pull information from GitHub. Towards the end we worked on Markdowns and how to write visually appealing documents in VS Code. 
+![Headshot](C:/Users/alohwabbit/Desktop/Work/Biographies/Headshots/DSC_0526.jpg)
