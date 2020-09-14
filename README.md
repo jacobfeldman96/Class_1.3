@@ -6,7 +6,7 @@
 * How will RegTech change in the next 5 years? 
 * Class Presenters:
 * RegTech - with current companies like Facebook, Google and Tesla, Tech will be regulated internally. 
-* Personal Take: Once fiat currency is replaced by crypto government currencies, then blockchain will replace any sort of Regulatory structure because it is already built into the code. Quantam computing could be an interesting solution for predicting fraudulent activity. But that is likely not in the realm of possibility in the next 5 years. 
+* Personal Take: Once fiat currency is replaced by crypto government currencies, then blockchain will replace any sort of Regulatory structure because regulation is already built into the code. Quantam computing could be an interesting solution for predicting fraudulent activity. But that is likely not in the realm of possibility in the next 5 years. 
 * InsurTech - Headling Insurance too expensive for community - profiling and risk segmentation. Solution? Certain habitual predictors will impact your overall premium. Cars that have outfitted tech that monitor breaking, acceleration etc. will become more individualized vs being lumped together with a general demographic.   
 ## Git Hub Activity
 * What is Git? Git is like the google docs of code which is open sourced. Used for software development. Save versioms of each change. 
